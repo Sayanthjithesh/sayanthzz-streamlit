@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1001,
+    "date": "2026-04-08",
+    "time": "11:17 PM",
+    "items": [
+      {
+        "name": "Gulab Jamun",
+        "qty": 9,
+        "price": 90
+      },
+      {
+        "name": "Chicken Biryani",
+        "qty": 1,
+        "price": 320
+      }
+    ],
+    "subtotal": 1130,
+    "tax": 56,
+    "total": 1186
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Butter Chicken",
+    "cat": "Main Course",
+    "price": 280,
+    "available": true,
+    "emoji": "\ud83c\udf5b"
+  },
+  {
+    "id": 2,
+    "name": "Dal Makhani",
+    "cat": "Main Course",
+    "price": 220,
+    "available": true,
+    "emoji": "\ud83e\uded8"
+  },
+  {
+    "id": 3,
+    "name": "Garlic Naan",
+    "cat": "Breads",
+    "price": 60,
+    "available": true,
+    "emoji": "\ud83e\uded3"
+  },
+  {
+    "id": 4,
+    "name": "Paneer Tikka",
+    "cat": "Starters",
+    "price": 260,
+    "available": true,
+    "emoji": "\ud83c\udf62"
+  },
+  {
+    "id": 5,
+    "name": "Mango Lassi",
+    "cat": "Beverages",
+    "price": 120,
+    "available": true,
+    "emoji": "\ud83e\udd64"
+  },
+  {
+    "id": 6,
+    "name": "Gulab Jamun",
+    "cat": "Desserts",
+    "price": 90,
+    "available": true,
+    "emoji": "\ud83c\udf6e"
+  },
+  {
+    "id": 7,
+    "name": "Tomato Soup",
+    "cat": "Soups",
+    "price": 110,
+    "available": false,
+    "emoji": "\ud83c\udf72"
+  },
+  {
+    "id": 8,
+    "name": "Chicken Biryani",
+    "cat": "Specials",
+    "price": 320,
+    "available": true,
+    "emoji": "\ud83c\udf5a"
+  },
+  {
+    "id": 9,
+    "name": "mango juice",
+    "cat": "Beverages",
+    "price": 70,
+    "available": true,
+    "emoji": ""
+  }
+]
